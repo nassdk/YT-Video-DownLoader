@@ -1,0 +1,8 @@
+<resources>
+    <string name="app_name">YT Video Downloader</string>
+    <string name="main_info_text">Вас приветствует приложение YouTube Downloader. Пожалуйста,    введите ссылку  видео, которое вы хотите скачать</string>
+    <string name="main_input_hint_text">Внесите ссылку</string>
+    <string name="main_button_download_text">Скачать</string>
+    <string name="start_text_info">YouTube Video Downloader</string>
+    <string name="main_button_clear_text">Удалить</string>
+</resources>
